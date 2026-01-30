@@ -1,1 +1,4 @@
-Content from branch B
+Main branch content
+Content from branch A and B resolved
+
+
